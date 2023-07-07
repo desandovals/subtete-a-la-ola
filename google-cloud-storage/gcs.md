@@ -17,7 +17,7 @@ De forma automática la herramienta les da un estimado de lo que podría costar 
 
 <br>
 <p align="center">
-<img src="images/img-02.png" width="500">
+<img src="images/img-02.png">
 </p>
 
 ## Configuraciones
@@ -58,8 +58,8 @@ Podemos habilitar las siguientes políticas:
 
 | Tipo | Descripcion |
 | :--: | :--------- |
-| Público | NO PERMITIDO en Liverpool. Cualquiera que tenga el link puede acceder al contenido del bucket |
-| Uniform (opción recomendada) | Cuando declaremos permisos de lectura o escritura a personas o equipos, estos permisos se verán aplicados a TODOS los objetos que vivan en el bucket |
+| Público | **NO PERMITIDO** en Liverpool. Cualquiera que tenga el link puede acceder al contenido del bucket |
+| Uniform **(opción recomendada)** | Cuando declaremos permisos de lectura o escritura a personas o equipos, estos permisos se verán aplicados a TODOS los objetos que vivan en el bucket |
 | Fine-grained | Los permisos de lectura / escritura son declarados a cada objeto dentro del bucket. | 
 
 ## Uso de comandos
