@@ -17,7 +17,7 @@ De forma automática la herramienta les da un estimado de lo que podría costar 
 
 <br>
 <p align="center">
-<img src="images/img-02.png">
+<img src="images/img-02.png" width="500>
 </p>
 
 ## Configuraciones
@@ -26,7 +26,7 @@ De forma automática la herramienta les da un estimado de lo que podría costar 
 
 <br>
 <p align="center">
-<img src="images/img-03.png" width="500">
+<img src="images/img-03.png">
 </p>
 
 ### Réplica de datos
