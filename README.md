@@ -12,7 +12,10 @@ Si alguien desea participar o subir sus propios aportes, **búsquenme para darle
 
 ## Software para comenzar
 
-1. [Visual Studio Code](https://code.visualstudio.com/)
-2. [Google Cloud SDK](https://cloud.google.com/sdk/docs/install?hl=es-419#windows)
-3. [Cliente GIT - Windows](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Google Cloud SDK](https://cloud.google.com/sdk/docs/install?hl=es-419#windows)
+- [Cliente GIT - Windows](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
 
+## Tabla de contenidos
+
+1. [Google Cloud Storage](google-cloud-storage/gcs.md)
