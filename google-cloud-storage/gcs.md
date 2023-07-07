@@ -104,6 +104,9 @@ touch ejemplo.txt ; gsutil cp ejemplo.txt gs://sit-devops-training-bkt01/
 <img src="images/img-08.png" width="500">
 </p>
 
+------ 
+
 :scream: ¿Se dieron cuenta que se usaron comandos de Linux?
 
-¿Quiere decir que podemos hacer scripts que incluyan comandos de Google? :sunglasses:
+
+**¿Quiere decir que podemos hacer scripts que incluyan comandos de Google?** :sunglasses:
