@@ -1,5 +1,7 @@
 # Google Cloud Storage 
 
+[Documentación oficial](https://cloud.google.com/storage/docs/buckets?hl=es-419)
+
 Google Cloud Storage es un componente en GCP que sirve para almacenar datos no estructurados. Es decir, podemos almacenar instaladores, imágenes, artefactos, etc. Parecido a un servidor FTP. 
 
 <br>
