@@ -25,19 +25,19 @@ Si ahora este archivo lo abrimos con Excel, veremos lo siguiente:
 
 <br>
 <p align="center">
-<img src="images/img-02.png" width="500">
+<img src="images/img-02.png" width="700">
 </p>
 
 O incluso podemos cargarlo a Google Drive y abrirlo con SpreadSheets. 
 
 <br>
 <p align="center">
-<img src="images/img-04.png" width="500">
+<img src="images/img-04.png" width="300">
 </p>
 
 <br>
 <p align="center">
-<img src="images/img-03.png" width="500">
+<img src="images/img-03.png" width="700">
 </p>
 
 ## Bonus
