@@ -64,4 +64,4 @@ echo "Caida APP, $(date +%H:%m), $(date +%d/%m/%Y)" >> archivo.csv
 
 ## Conclusión 
 
-Podemos automatizar la creación de archivos que nos pueden ser útiles para generar reportes a partir de datos crudos que bien pueden ser obtenidos desde línea de comandos o scripts que se encarguen de recopilarlos. :scream: 
+Podemos automatizar la creación de archivos que nos pueden ser útiles para generar reportes a partir de datos crudos que bien pueden ser obtenidos desde línea de comandos o scripts que se encarguen de recopilarlos. :scream: :scream: :scream:
